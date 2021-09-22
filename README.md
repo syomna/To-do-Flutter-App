@@ -1,16 +1,15 @@
-# todo
+# Todo App With Flutter ❤️
 
-A new Flutter project.
+![Remini20210915182738952](https://user-images.githubusercontent.com/91206852/134373433-94f7127c-0645-499b-b59f-416a9c67554f.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The App Contains :
 
-A few resources to get you started if this is your first Flutter project:
+- Splash screen
+- Local database - sqflite -
+- CRUD Operations
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Gif of the app :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![VN20210603_0159-1622678407227](https://user-images.githubusercontent.com/91206852/134373458-8ea09e08-3100-43cd-88c5-79fd71fd0807.gif)
+
